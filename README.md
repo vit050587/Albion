@@ -1,5 +1,5 @@
 # Albion
-![title](img\scale_1200.jpg)
+![title](scale_1200.jpg)
 
 # Создание Бота
 
