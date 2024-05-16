@@ -9,7 +9,7 @@ import mss
 import numpy
 import pyautogui
 
-template = cv2.imread("2019-07-02_06-55_1.png", cv2.IMREAD_GRAYSCALE)
+template = cv2.imread("1.png", cv2.IMREAD_GRAYSCALE)
 w, h = template.shape[::-1]
 
 color_yellow = (0,255,255)
@@ -27,7 +27,7 @@ def ss():
     op = 1
     with mss.mss() as sct:
 
-        monitor = {"top": 40, "left": 0, "width": 800, "height": 640}
+        monitor = {"top": 40, "left": 0, "width": 1920, "height": 1080}
 
         while "Screen capturing":
             last_time = time.time()
