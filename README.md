@@ -12,6 +12,4 @@
 
 * [Пишем бот для рыбалки в игре Albion Online на языке Python](https://habr.com/ru/articles/459110/)
 * [БОТ для рыбалки с НЕЙРОСЕТЯМИ||Albion online видео](https://rutube.ru/video/84d09a70accc56c305e49d3c721dff07/)
-
 * [Умный бот, интересные идеи для реализации](https://rutube.ru/video/363f01433f965bd2e058fcca6aec0281/?r=wd)
-*
